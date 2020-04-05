@@ -17,7 +17,7 @@ Catsay can be used in the same way as cowsay:
   <img src="https://raw.githubusercontent.com/Loqaritm/catsay/master/examples/catsay_have_fun.png" width="50%" /> 
 </p>
 
-Additionally, catsay can be used to tell jokes!
+Additionally, catsay can be used to tell jokes! (actually truly bad ones)
 ```
 ./catsay joke
 ```

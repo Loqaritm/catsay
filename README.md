@@ -1,5 +1,5 @@
 # catsay
-Moosay-inspired little CLI thing for people that like cows, but like cats more.
+Cowsay-inspired little CLI thing for people that like cows, but like cats more.
 
 # Usage
 This repository contains a file compiled to run under linux. If you want to run this anywhere else, just compile the source.
